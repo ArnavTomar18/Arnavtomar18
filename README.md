@@ -16,10 +16,20 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- Replace YOUR_GITHUB_USERNAME in both links below -->
+<img src="assets/snapshot.svg" width="100%" alt="stats.json — GitHub numbers and language mix" />
+
+<!-- live contribution wave (last 31 days) -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=F6EFE3&text_color=C9A67C&icon_color=D9A066&bg_color=17100C&border_color=3A281D" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=F6EFE3&text_color=C9A67C&bg_color=17100C&border_color=3A281D" alt="Top languages" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arnavtomar18&bg_color=17100C&color=C9A67C&title_color=F6EFE3&line=D9A066&point=F6EFE3&area=true&area_color=D9A066&hide_border=true&radius=14&custom_title=contribution%20wave" alt="contribution wave" />
+</p>
+
+<!-- snake: light + dark versions switch with GitHub's theme -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/snake.svg" />
+  </picture>
 </p>
 
 <p align="center">
