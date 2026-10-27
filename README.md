@@ -18,16 +18,6 @@
 
 <img src="assets/snapshot.svg" width="100%" alt="stats.json — GitHub numbers and language mix" />
 
-<!-- live contribution wave (last 31 days) -->
-<p align="center">
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
-
 <!-- snake: light + dark versions switch with GitHub's theme -->
 <p align="center">
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/snake.svg" /> <img alt="contribution snake" src="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/snake.svg" />
