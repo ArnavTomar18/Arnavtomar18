@@ -26,8 +26,8 @@
 <!-- snake: light + dark versions switch with GitHub's theme -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/snake.svg" />
+    <source srcset="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/snake-dark.svg" />
+    <source srcset="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/snake.svg" />
     <img alt="contribution snake" src="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/snake.svg" />
   </picture>
 </p>
