@@ -20,15 +20,16 @@
 
 <!-- live contribution wave (last 31 days) -->
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arnavtomar18&bg_color=17100C&color=C9A67C&title_color=F6EFE3&line=D9A066&point=F6EFE3&area=true&area_color=D9A066&hide_border=true&radius=14&custom_title=contribution%20wave" alt="contribution wave" />
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Arnavtomar18&bg_color=17100C&color=C9A67C&title_color=F6EFE3&line=D9A066&point=F6EFE3&area=true&hide_border=true&radius=14&custom_title=Contribution%20Wave"
+    alt="GitHub Contribution Activity Graph"
+  />
 </p>
 
 <!-- snake: light + dark versions switch with GitHub's theme -->
 <p align="center">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/snake-dark.svg" />
-    <source srcset="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/snake.svg" />
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/snake.svg" /> <img alt="contribution snake" src="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/snake.svg" />
   </picture>
 </p>
 
