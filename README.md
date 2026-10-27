@@ -22,10 +22,11 @@
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Arnavtomar18&bg_color=17100C&color=C9A67C&title_color=F6EFE3&line=D9A066&point=F6EFE3&area=true&hide_border=true&radius=14&custom_title=Contribution%20Wave"
-    alt="GitHub Contribution Activity Graph"
+    src="https://raw.githubusercontent.com/Arnavtomar18/Arnavtomar18/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
   />
 </p>
+
 
 <!-- snake: light + dark versions switch with GitHub's theme -->
 <p align="center">
