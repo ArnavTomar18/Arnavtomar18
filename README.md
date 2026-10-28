@@ -18,11 +18,6 @@
 
 <img src="assets/monitor.svg" width="100%" alt="System Monitor — GitHub numbers and language mix" />
 
-<!-- live contribution graph (GitHub colours) -->
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arnavtomar18&bg_color=0d1117&color=8b949e&title_color=e6edf3&line=58a6ff&point=3fb950&area=true&area_color=1f6feb&hide_border=true&radius=12&custom_title=contribution%20activity" alt="contribution activity" />
-</p>
-
 <!-- contribution snake: light and dark versions follow GitHub's theme -->
 <p align="center">
   <picture>
